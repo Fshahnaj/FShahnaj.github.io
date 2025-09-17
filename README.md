@@ -8,7 +8,7 @@ RTP • Remote
 Star schema, 10+ DAX KPIs (BP Control %, Obesity %, High Chol/Gluc %), **RLS** by region, **Incremental Refresh**, Exec/Ops bookmarks.  
 **Repo:** 
 **Executive Summary (PDF):** (link)  
-
+### 2) Health Analytics Lakehouse (AWS)
 S3→Glue (PySpark)→Athena/Redshift; Lake Formation + CloudWatch; Power BI to Redshift.  
 **Repo:**
 *(More projects coming soon: FinTech Payments Ops, EdTech Retention.)*
