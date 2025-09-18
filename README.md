@@ -1,5 +1,5 @@
 # Hi, I'm Fujaila Shahnaj 👋
-**Data Analyst / Data Engineer** — Power BI (PL-300), SQL, Python, AWS (DE-Associate in progress) — I turn raw data into decision-ready KPIs for Healthcare • Utilities • FinTech — RTP + Remote
+**Data Analyst / Data Engineer** — Power BI (PL-300), SQL, Python, AWS (DE-Associate in progress) — I turn raw data into decision-ready KPIs for Healthcare • Utilities • FinTech — RTP Area(North Carolina) + Remote
 
 ## What I do
 - Power BI star schema + DAX (RLS, Incremental Refresh)
