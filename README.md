@@ -1,5 +1,6 @@
 # Hi, I'm Fujaila Shahnaj 👋
 **Data Analyst / Data Engineer** — Power BI (PL-300) • SQL • AWS (DEA in progress) .Python
+
 **Location**- RTP • Remote
 
 ## What I do
