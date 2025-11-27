@@ -57,32 +57,20 @@ F1 Score: <strong>0.84</strong>
 
 <h2>🛠️ Technical Skills</h2>
 
-<table>
-<tr><td>
+<ul>
+  <li><strong>Languages:</strong> Python, SQL</li>
 
-### 🔧 Languages  
-Python, SQL
+  <li><strong>Data Analytics:</strong> EDA, KPI Development, Statistical Analysis, A/B Testing, Dashboarding</li>
 
-### 📊 Data Analytics  
-EDA, KPI Development, A/B Testing, Statistical Analysis, Dashboarding
+  <li><strong>Machine Learning:</strong> Logistic Regression, Random Forest, BERT/RoBERTa, Feature Engineering, Model Evaluation</li>
 
-### 🧠 Machine Learning  
-Logistic Regression, Tree-Based Models, BERT/RoBERTa, Feature Engineering, Model Evaluation
+  <li><strong>Data Engineering:</strong> Apache Spark, dbt (models/tests/docs), ETL/ELT, Dimensional Modeling, DuckDB, MySQL, Oracle</li>
 
-</td><td>
+  <li><strong>Business Intelligence:</strong> Power BI (DAX, M, RLS, star schema), Tableau, Matplotlib, Seaborn</li>
 
-### 🏗️ Data Engineering  
-dbt (models, tests, documentation), ETL/ELT, Dimensional Modeling  
-DuckDB, MySQL, Oracle, Apache Spark
+  <li><strong>Cloud:</strong> AWS (S3, Glue, Redshift, EC2, IAM)</li>
+</ul>
 
-### 📈 BI & Visualization  
-Power BI (DAX, Power Query/M, Star Schema, RLS), Tableau, Matplotlib, Seaborn
-
-### ☁️ Cloud  
-AWS (S3, Glue, Redshift, EC2, IAM)
-
-</td></tr>
-</table>
 
 ---
 
