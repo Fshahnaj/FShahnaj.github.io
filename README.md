@@ -32,4 +32,4 @@ This includes:
 
 ### 📬 Connect
 📧 Email: **shahnajfujaila@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/fujaila-shahnaj-117a6b122/ 
+🔗 LinkedIn:www.linkedin.com/in/fujaila-shahnaj-clemson
